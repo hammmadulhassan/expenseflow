@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88322780231",
+    "project_id": "expenseflow-55f1c",
+    "storage_bucket": "expenseflow-55f1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88322780231:android:037375aa502d67a1a1d562",
+        "android_client_info": {
+          "package_name": "com.example.expenseflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8wCEc7OZGReCL41XKsKpOm--oXXCBbEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
